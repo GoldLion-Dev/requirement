@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+tqdm
+networkx
+multiprocessing
+sklearn
+scanpy
+scgen
+pyscenic
+loompy
